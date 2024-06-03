@@ -1,9 +1,8 @@
-{ "monsters":[
-    
+{"monsters":[
     {
         "id": 1,
         "name": "Bigfoot",
-        "location": "Pacific Northwest, USA",
+        "location": "North America",
         "description": "A large, ape-like creature said to inhabit forests.",
         "type": "ground",
         "scareRating": 7,
@@ -12,7 +11,7 @@
     {
         "id": 2,
         "name": "Chupacabra",
-        "location": "Puerto Rico, Latin America, Southwestern USA",
+        "location": "North America",
         "description": "A creature reported to drink the blood of livestock, primarily goats.",
         "type": "ground",
         "scareRating": 6,
@@ -21,7 +20,7 @@
     {
         "id": 3,
         "name": "Mothman",
-        "location": "Point Pleasant, West Virginia, USA",
+        "location": "North America",
         "description": "A winged humanoid with glowing red eyes.",
         "type": "air",
         "scareRating": 8,
@@ -30,7 +29,7 @@
     {
         "id": 4,
         "name": "Wendigo",
-        "location": "Algonquian folklore, North America",
+        "location": "North America",
         "description": "A malevolent spirit or monster associated with cannibalism and winter.",
         "type": "ground",
         "scareRating": 9,
@@ -39,7 +38,7 @@
     {
         "id": 5,
         "name": "Jersey Devil",
-        "location": "Pine Barrens, New Jersey, USA",
+        "location": "North America",
         "description": "A kangaroo-like creature with a horse's head, bat wings, and horns.",
         "type": "air",
         "scareRating": 7,
@@ -48,7 +47,7 @@
     {
         "id": 6,
         "name": "Mapinguari",
-        "location": "Amazon rainforest, South America",
+        "location": "South America",
         "description": "A large, hairy, one-eyed monster.",
         "type": "ground",
         "scareRating": 7,
@@ -57,7 +56,7 @@
     {
         "id": 7,
         "name": "La Llorona",
-        "location": "Mexican folklore, South America",
+        "location": "South America",
         "description": "A ghostly woman who mourns her drowned children.",
         "type": "water",
         "scareRating": 6,
@@ -66,7 +65,7 @@
     {
         "id": 8,
         "name": "El Pombero",
-        "location": "Guaraní mythology, Paraguay",
+        "location": "South America",
         "description": "A small, humanoid creature known for its mischievous behavior.",
         "type": "ground",
         "scareRating": 5,
@@ -75,7 +74,7 @@
     {
         "id": 9,
         "name": "Encantado",
-        "location": "Amazonian folklore, South America",
+        "location": "South America",
         "description": "A shapeshifting dolphin-like creature, often appearing as a human.",
         "type": "water",
         "scareRating": 6,
@@ -84,7 +83,7 @@
     {
         "id": 10,
         "name": "Chullachaqui",
-        "location": "Peruvian Amazonian legend, South America",
+        "location": "South America",
         "description": "A mythical forest creature that can change shape.",
         "type": "ground",
         "scareRating": 6,
@@ -93,7 +92,7 @@
     {
         "id": 11,
         "name": "Loch Ness Monster",
-        "location": "Loch Ness, Scotland, Europe",
+        "location": "Europe",
         "description": "A large aquatic creature.",
         "type": "water",
         "scareRating": 6,
@@ -102,7 +101,7 @@
     {
         "id": 12,
         "name": "Kraken",
-        "location": "Norway and Greenland, Europe",
+        "location": "Europe",
         "description": "A gigantic sea monster.",
         "type": "water",
         "scareRating": 8,
@@ -111,7 +110,7 @@
     {
         "id": 13,
         "name": "Banshee",
-        "location": "Irish folklore, Europe",
+        "location": "Europe",
         "description": "A spirit known for its wailing that foretells death.",
         "type": "air",
         "scareRating": 7,
@@ -120,7 +119,7 @@
     {
         "id": 14,
         "name": "Black Shuck",
-        "location": "East Anglia, England, Europe",
+        "location": "Europe",
         "description": "A ghostly black dog seen as an omen of death.",
         "type": "ground",
         "scareRating": 7,
@@ -129,7 +128,7 @@
     {
         "id": 15,
         "name": "Alp",
-        "location": "German folklore, Europe",
+        "location": "Europe",
         "description": "A nightmare creature that brings bad dreams.",
         "type": "ground",
         "scareRating": 6,
@@ -138,7 +137,7 @@
     {
         "id": 16,
         "name": "Mokele-Mbembe",
-        "location": "Congo River Basin, Africa",
+        "location": "Africa",
         "description": "A dinosaur-like creature.",
         "type": "water",
         "scareRating": 7,
@@ -147,7 +146,7 @@
     {
         "id": 17,
         "name": "Grootslang",
-        "location": "Richtersveld, South Africa",
+        "location": "Africa",
         "description": "A monster that is part snake, part elephant.",
         "type": "ground",
         "scareRating": 8,
@@ -156,7 +155,7 @@
     {
         "id": 18,
         "name": "Tokoloshe",
-        "location": "Zulu mythology, Africa",
+        "location": "Africa",
         "description": "A small, hairy creature known for its mischievous and malevolent behavior.",
         "type": "ground",
         "scareRating": 6,
@@ -165,7 +164,7 @@
     {
         "id": 19,
         "name": "Kongamato",
-        "location": "Zambia, Angola, Congo, Africa",
+        "location": "Africa",
         "description": "A pterosaur-like creature.",
         "type": "air",
         "scareRating": 7,
@@ -174,7 +173,7 @@
     {
         "id": 20,
         "name": "Adze",
-        "location": "Ewe folklore, Togo and Ghana, Africa",
+        "location": "Africa",
         "description": "A vampiric creature that can shape-shift into a firefly.",
         "type": "air",
         "scareRating": 6,
@@ -183,7 +182,7 @@
     {
         "id": 21,
         "name": "Yeti",
-        "location": "Himalayas, Nepal, Bhutan, Tibet, Asia",
+        "location": "Asia",
         "description": "A large, ape-like creature.",
         "type": "ground",
         "scareRating": 8,
@@ -192,7 +191,7 @@
     {
         "id": 22,
         "name": "Ahool",
-        "location": "Java, Indonesia, Asia",
+        "location": "Asia",
         "description": "A giant bat-like or flying primate creature.",
         "type": "air",
         "scareRating": 7,
@@ -201,7 +200,7 @@
     {
         "id": 23,
         "name": "Kappa",
-        "location": "Japanese folklore, Asia",
+        "location": "Asia",
         "description": "A water-dwelling creature with a water-filled depression on its head.",
         "type": "water",
         "scareRating": 6,
@@ -210,7 +209,7 @@
     {
         "id": 24,
         "name": "Mongolian Death Worm",
-        "location": "Gobi Desert, Mongolia, Asia",
+        "location": "Asia",
         "description": "A worm-like creature capable of spewing acid or generating electric shocks.",
         "type": "ground",
         "scareRating": 8,
@@ -219,7 +218,7 @@
     {
         "id": 25,
         "name": "Manananggal",
-        "location": "Filipino folklore, Asia",
+        "location": "Asia",
         "description": "A vampire-like creature that can sever its upper body and grow wings to fly at night.",
         "type": "air",
         "scareRating": 8,
@@ -228,7 +227,7 @@
     {
         "id": 26,
         "name": "Bunyip",
-        "location": "Australian Aboriginal mythology, Australia",
+        "location": "Australia",
         "description": "A creature said to lurk in swamps, billabongs, and waterholes.",
         "type": "water",
         "scareRating": 7,
@@ -237,7 +236,7 @@
     {
         "id": 27,
         "name": "Yowie",
-        "location": "Australian outback, Australia",
+        "location": "Australia",
         "description": "A large, ape-like creature similar to Bigfoot.",
         "type": "ground",
         "scareRating": 7,
@@ -255,7 +254,7 @@
     {
         "id": 29,
         "name": "Menehune",
-        "location": "Hawaiian folklore, Oceania",
+        "location": "Oceania",
         "description": "Small, dwarf-like people said to live in forests and mountains.",
         "type": "ground",
         "scareRating": 5,
@@ -264,11 +263,10 @@
     {
         "id": 30,
         "name": "Taniwha",
-        "location": "Māori legend, New Zealand, Oceania",
+        "location": "Oceania",
         "description": "Mythical sea monsters, often guardians of bodies of water or landforms.",
         "type": "water",
         "scareRating": 7,
         "invoqueInstructions": null
     }
-]
-}
+]}
