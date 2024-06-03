@@ -1,4 +1,5 @@
-[
+{ "monsters":[
+    
     {
         "id": 1,
         "name": "Bigfoot",
@@ -270,3 +271,4 @@
         "invoqueInstructions": null
     }
 ]
+}
