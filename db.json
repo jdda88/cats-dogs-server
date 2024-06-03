@@ -1,4 +1,4 @@
-{"monsters":[
+[
     {
         "id": 1,
         "name": "Bigfoot",
@@ -6,7 +6,8 @@
         "description": "A large, ape-like creature said to inhabit forests.",
         "type": "ground",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Willow Creek, California"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "description": "A creature reported to drink the blood of livestock, primarily goats.",
         "type": "ground",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Canóvanas, Puerto Rico"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "description": "A winged humanoid with glowing red eyes.",
         "type": "air",
         "scareRating": 8,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Point Pleasant, West Virginia"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "description": "A malevolent spirit or monster associated with cannibalism and winter.",
         "type": "ground",
         "scareRating": 9,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Great Lakes region"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "description": "A kangaroo-like creature with a horse's head, bat wings, and horns.",
         "type": "air",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Pine Barrens, New Jersey"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "description": "A large, hairy, one-eyed monster.",
         "type": "ground",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Amazon Rainforest"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "description": "A ghostly woman who mourns her drowned children.",
         "type": "water",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Bogotá, Colombia"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "description": "A small, humanoid creature known for its mischievous behavior.",
         "type": "ground",
         "scareRating": 5,
-        "invoqueInstructions": "Offer tobacco and alcohol to appease."
+        "invoqueInstructions": "Offer tobacco and alcohol to appease.",
+        "lastSeen": "Misiones, Argentina"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "description": "A shapeshifting dolphin-like creature, often appearing as a human.",
         "type": "water",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Amazon River"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "description": "A mythical forest creature that can change shape.",
         "type": "ground",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Peruvian Amazon"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "description": "A large aquatic creature.",
         "type": "water",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Loch Ness, Scotland"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "description": "A gigantic sea monster.",
         "type": "water",
         "scareRating": 8,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Coast of Norway"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "description": "A spirit known for its wailing that foretells death.",
         "type": "air",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Irish countryside"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "description": "A ghostly black dog seen as an omen of death.",
         "type": "ground",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Norfolk, England"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "description": "A nightmare creature that brings bad dreams.",
         "type": "ground",
         "scareRating": 6,
-        "invoqueInstructions": "Place a broom under your pillow to keep it away."
+        "invoqueInstructions": "Place a broom under your pillow to keep it away.",
+        "lastSeen": "Germany"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "description": "A dinosaur-like creature.",
         "type": "water",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Congo River Basin"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "description": "A monster that is part snake, part elephant.",
         "type": "ground",
         "scareRating": 8,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Richtersveld, South Africa"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "description": "A small, hairy creature known for its mischievous and malevolent behavior.",
         "type": "ground",
         "scareRating": 6,
-        "invoqueInstructions": "Raise your bed on bricks to keep it away."
+        "invoqueInstructions": "Raise your bed on bricks to keep it away.",
+        "lastSeen": "Johannesburg, South Africa"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "description": "A pterosaur-like creature.",
         "type": "air",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Zambezi River"
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "description": "A vampiric creature that can shape-shift into a firefly.",
         "type": "air",
         "scareRating": 6,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Togo"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "description": "A large, ape-like creature.",
         "type": "ground",
         "scareRating": 8,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Himalayas, Nepal"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "description": "A giant bat-like or flying primate creature.",
         "type": "air",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Java, Indonesia"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "description": "A water-dwelling creature with a water-filled depression on its head.",
         "type": "water",
         "scareRating": 6,
-        "invoqueInstructions": "Bow deeply to make it spill the water on its head."
+        "invoqueInstructions": "Bow deeply to make it spill the water on its head.",
+        "lastSeen": "Saitama, Japan"
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "description": "A worm-like creature capable of spewing acid or generating electric shocks.",
         "type": "ground",
         "scareRating": 8,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Gobi Desert, Mongolia"
     },
     {
         "id": 25,
@@ -222,51 +246,57 @@
         "description": "A vampire-like creature that can sever its upper body and grow wings to fly at night.",
         "type": "air",
         "scareRating": 8,
-        "invoqueInstructions": "Use garlic, salt, or holy water to repel it."
+        "invoqueInstructions": "Use salt or garlic to repel it.",
+        "lastSeen": "Manila, Philippines"
     },
     {
         "id": 26,
         "name": "Bunyip",
         "location": "Australia",
-        "description": "A creature said to lurk in swamps, billabongs, and waterholes.",
+        "description": "A large water monster with varied descriptions.",
         "type": "water",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Murray River, Australia"
     },
     {
         "id": 27,
         "name": "Yowie",
         "location": "Australia",
-        "description": "A large, ape-like creature similar to Bigfoot.",
+        "description": "A large, ape-like creature.",
         "type": "ground",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Blue Mountains, Australia"
     },
     {
         "id": 28,
-        "name": "Megalania",
+        "name": "Drop Bear",
         "location": "Australia",
-        "description": "A giant lizard thought to have existed; some believe it may still live in remote areas.",
+        "description": "A predatory, carnivorous version of the koala.",
         "type": "ground",
-        "scareRating": 8,
-        "invoqueInstructions": null
+        "scareRating": 6,
+        "invoqueInstructions": "Spread Vegemite behind your ears to deter them.",
+        "lastSeen": "Great Dividing Range, Australia"
     },
     {
         "id": 29,
-        "name": "Menehune",
-        "location": "Oceania",
-        "description": "Small, dwarf-like people said to live in forests and mountains.",
+        "name": "Megalania",
+        "location": "Australia",
+        "description": "A giant prehistoric lizard.",
         "type": "ground",
-        "scareRating": 5,
-        "invoqueInstructions": null
+        "scareRating": 8,
+        "invoqueInstructions": null,
+        "lastSeen": "Queensland, Australia"
     },
     {
         "id": 30,
-        "name": "Taniwha",
-        "location": "Oceania",
-        "description": "Mythical sea monsters, often guardians of bodies of water or landforms.",
+        "name": "Hawkesbury River Monster",
+        "location": "Australia",
+        "description": "A long-necked aquatic creature.",
         "type": "water",
         "scareRating": 7,
-        "invoqueInstructions": null
+        "invoqueInstructions": null,
+        "lastSeen": "Hawkesbury River, Australia"
     }
-]}
+]
