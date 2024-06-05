@@ -20,7 +20,7 @@
       "scareRating": 6,
       "invoqueInstructions": null,
       "lastSeen": "Canóvanas, Puerto Rico",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717596426/Monster-project/chupacabra_wnqeex.png"
     },
     {
       "id": 3,
@@ -53,7 +53,7 @@
       "scareRating": 7,
       "invoqueInstructions": null,
       "lastSeen": "Pine Barrens, New Jersey",
-      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717532153/Monster-project/jersey-devil_ssx0gh.jpg"
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717596846/Monster-project/jersey_devil_byckbo.png"
     },
     {
       "id": 6,
@@ -174,7 +174,7 @@
       "scareRating": 7,
       "invoqueInstructions": null,
       "lastSeen": "Congo River Basin",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1717532105/Monster-project/Mokele-mbembe_qsb5lz.jpg"
     },
     {
       "id": 17,
@@ -185,7 +185,7 @@
       "scareRating": 8,
       "invoqueInstructions": null,
       "lastSeen": "Richtersveld, South Africa",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717597612/Monster-project/gootslag-2_i6sxh7.jpg"
     },
     {
       "id": 18,
@@ -196,7 +196,7 @@
       "scareRating": 6,
       "invoqueInstructions": "Raise your bed on bricks to keep it away.",
       "lastSeen": "Johannesburg, South Africa",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717532937/Monster-project/tokoloshe_pktvcl.webp"
     },
     {
       "id": 19,
@@ -207,7 +207,7 @@
       "scareRating": 7,
       "invoqueInstructions": null,
       "lastSeen": "Zambezi River",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_testweb/v1717532987/Monster-project/kongamato_la3rer.jpg"
     },
     {
       "id": 20,
@@ -273,7 +273,7 @@
       "scareRating": 8,
       "invoqueInstructions": "Use salt or garlic to repel it.",
       "lastSeen": "Manila, Philippines",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_testweb/v1717534141/Monster-project/manananggal_gn7fiy.webp"
     },
     {
       "id": 26,
@@ -284,7 +284,7 @@
       "scareRating": 7,
       "invoqueInstructions": null,
       "lastSeen": "Murray River, Australia",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/t_web use/v1717534188/Monster-project/Bunyip_t7rxlb.jpg"
     },
     {
       "id": 27,
@@ -317,7 +317,7 @@
       "scareRating": 8,
       "invoqueInstructions": null,
       "lastSeen": "Queensland, Australia",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717596787/Monster-project/megalania_kjt1or.png"
     },
     {
       "id": 30,
@@ -328,7 +328,7 @@
       "scareRating": 7,
       "invoqueInstructions": null,
       "lastSeen": "Hawkesbury River, Australia",
-      "image": ""
+      "image": "https://res.cloudinary.com/dprkq4xne/image/upload/v1717596730/Monster-project/hawkesbury_river_monster_mgwphg.png"
     }
   ]
 }
